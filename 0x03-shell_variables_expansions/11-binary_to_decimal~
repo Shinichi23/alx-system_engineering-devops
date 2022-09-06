@@ -1,0 +1,4 @@
+#!/bin/bash
+echo ${D2B[BINARY]}
+
+
