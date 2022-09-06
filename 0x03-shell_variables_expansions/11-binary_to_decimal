@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${D2B[BINARY]}
+echo ${D2B[$BINARY]}
